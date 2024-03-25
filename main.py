@@ -34,8 +34,4 @@ if __name__ == "__main__":
             print("Seleccionó el método de Ecuaciones Diferenciales Metodo Miaw")
             noHomogeneasM = EcuacionNoHomogeneaM()
             noHomogeneasM.metodo()
-
-        
-
-          
-
+            

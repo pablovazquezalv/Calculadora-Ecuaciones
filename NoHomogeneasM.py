@@ -16,7 +16,7 @@ class EcuacionNoHomogeneaM:
 
     def metodo(self):
         print("*** Ecuaciones diferenciales no homogéneas ***")
-        print("\n")
+        print("")
         # Mostrar la fórmula de la ecuación no homogénea
         print("La ecuación no homogénea tiene la forma: y' + P(x)y = Q(x)")
         print("\n")
