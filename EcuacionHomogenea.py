@@ -55,7 +55,7 @@ class EcuacionHomogenea:
         print("\nSolución:")
         print(sp.pretty(solucion))
         print("")
-         print("Deseas resolver otra ecuación?")
+        print("Deseas resolver otra ecuación?")
         print("1.- Si")
         print("2.- No")
         opcion = input("Seleccione una opción: ")
