@@ -25,7 +25,7 @@ if __name__ == "__main__":
         elif opcion == "2":
             print("Seleccionó el método de Ecuaciones Diferenciales Homogéneas")
             ecuacion = EcuacionHomogenea()
-            ecuacion.resolver()
+            ecuacion.resolver_ecuacion()
         elif opcion == "3":
             print("Seleccionó el método de Ecuaciones Diferenciales No Homogéneas con Coeficientes Constantes")
             noHomogeneasC = NoHomogeneaCoeficiente()
@@ -34,4 +34,3 @@ if __name__ == "__main__":
             print("Seleccionó el método de Ecuaciones Diferenciales Metodo Miaw")
             noHomogeneasM = EcuacionNoHomogeneaM()
             noHomogeneasM.metodo()
-            
