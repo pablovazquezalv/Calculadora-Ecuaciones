@@ -45,7 +45,6 @@ def resolver_ecuacion(ecuacion_input):
     # Mostrar la solución
     print("Lo que se hizo fue resolver la ecuación diferencial homogénea de primer orden: dy/dx = f(x, y)")
     print("haciendo que las derivadas de y sean iguales a la ecuación diferencial ingresada")
-    
     print("\nSolución:")
     print(solucion)
 
